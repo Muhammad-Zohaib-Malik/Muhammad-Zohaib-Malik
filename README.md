@@ -1,6 +1,6 @@
 
  <h1 align="center">💫 Hey Wassup👋🏻 Developers</h1>
-<div style="display: flex; align-items: center; justify-content: space-between; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; margin: auto;">
   <p style="flex: 1; padding-right: 20px;">
     Backend Developer🛠️
   </p>
