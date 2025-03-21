@@ -1,10 +1,10 @@
-<h1 align="center">💫 Hey Wassup👋🏻 Developers</h1>
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 800px; margin: auto;">
+
+ <h1 align="center">💫 Hey Wassup👋🏻 Developers</h1>
+<div style="display: flex; align-items: center; justify-content: space-between; margin: auto;">
   <p style="flex: 1; padding-right: 20px;">
     Backend Developer🛠️
-
   </p>
-  <img src="https://camo.githubusercontent.com/32938c5cfc76ec1c984b9a5d968aa4c815470f2b86c080699351d67434963ed0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" style="width: 300px; height: auto;">
+  <img src="https://camo.githubusercontent.com/32938c5cfc76ec1c984b9a5d968aa4c815470f2b86c080699351d67434963ed0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" style="width:300px; height: auto;">
 </div>
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
