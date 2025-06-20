@@ -25,7 +25,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib-Malik&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=monokai&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
