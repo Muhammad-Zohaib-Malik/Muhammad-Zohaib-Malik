@@ -30,7 +30,15 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 ---
 
+## 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
