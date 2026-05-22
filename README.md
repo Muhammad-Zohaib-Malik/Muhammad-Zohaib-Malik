@@ -1,6 +1,6 @@
 <h1 align="center">💫 Hey, Wassup 👋🏻 Developers</h1>
 
-<h3 align="center">Backend Developer 🛠️ | Scalable & Secure Systems</h3>
+<h3 align="center">FullStack Developer 🛠️ | Scalable & Secure Systems</h3>
 
 
 ---
