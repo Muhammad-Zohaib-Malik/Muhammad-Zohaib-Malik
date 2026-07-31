@@ -18,8 +18,6 @@ microservices, caching strategies, cloud deployments, and DevOps workflows.
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Zohaib-Malik&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
