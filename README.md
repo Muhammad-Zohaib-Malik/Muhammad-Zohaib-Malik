@@ -1,107 +1,151 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Zohaib Malik
+# Hi there 👋 I'm Muhammad Zohaib Malik
 
-### Backend Developer • Building Scalable, Secure & High-Performance Systems
+### Backend Developer | Building Scalable & Secure Systems
 
-<p>
-I enjoy designing production-ready backend architectures, REST APIs, authentication systems,
-microservices, caching strategies, cloud deployments, and DevOps workflows.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/zohaib-malik-bb7a3131b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/zohaibaay">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL;Microservices+%7C+AWS+%7C+Docker;Always+Learning+System+Design+%26+DevOps" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 💻 About Me
 
-```yaml
-Name: Muhammad Zohaib Malik
-Role: Backend Developer
-Experience: 1+ Year Industry Experience
-Passion: Building scalable backend systems
-Learning: DevOps • Kubernetes • HAProxy • System Design
-```
+Backend Developer with **2+ years of hands-on experience**, including **1 year of professional industry experience**, specializing in scalable backend architectures, REST APIs, cloud applications, and distributed systems.
+
+I enjoy solving backend problems related to performance, security, authentication, caching, deployment, and system design.
 
 ---
 
-# ⚡ Tech Stack
+## 🚀 What I Do
 
-### 🚀 Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-### 📈 Monitoring
-
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib-Malik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib-Malik&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-- 🔹 Scalable Backend Architecture
-- 🔹 REST APIs & Authentication
-- 🔹 Microservices
-- 🔹 Docker & Containerization
-- 🔹 HAProxy & Reverse Proxy
-- 🔹 Kubernetes
-- 🔹 CI/CD Pipelines
-- 🔹 AWS Cloud
+- 🔹 REST API Development
+- 🔹 Authentication & Authorization
+- 🔹 Microservices Architecture
+- 🔹 API Gateway
+- 🔹 Database Design
+- 🔹 Performance Optimization
+- 🔹 Redis Caching
+- 🔹 Docker & Cloud Deployment
+- 🔹 CI/CD Automation
 - 🔹 System Design
 
 ---
 
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github" />
+</p>
+
+### Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-2C2D72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ File Storage Platform
+
+A production-ready cloud storage application featuring:
+
+- AWS S3
+- CloudFront CDN
+- OAuth Login
+- Two Factor Authentication
+- Stripe Payments
+- Redis Sessions
+- GitHub Actions CI/CD
+
+---
+
+### 🏗 Enterprise Distributed Order Pipeline
+
+Microservices-based backend architecture featuring:
+
+- API Gateway
+- Authentication Service
+- Orders Service
+- Inventory Service
+- Payments Service
+- Notifications Service
+- RabbitMQ
+- Elasticsearch
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
 
-### 💙 "Great backend systems aren't seen by users—they're felt through speed, reliability, and scalability."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib-Malik&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib-Malik&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- HAProxy
+- Distributed Systems
+- Event-Driven Architecture
+- Advanced AWS
+- Backend Performance Optimization
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zohaib-malik-bb7a3131b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:muhammadzohaibmalik10@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/zohaibaay">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ *Building scalable systems, one API at a time.*
 
 </div>
