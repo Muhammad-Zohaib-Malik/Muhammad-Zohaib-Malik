@@ -112,18 +112,6 @@ Microservices-based backend architecture featuring:
 
 </div>
 
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- HAProxy
-- Distributed Systems
-- Event-Driven Architecture
-- Advanced AWS
-- Backend Performance Optimization
-
----
 
 # 🤝 Connect With Me
 
