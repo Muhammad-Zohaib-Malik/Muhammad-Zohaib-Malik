@@ -62,9 +62,8 @@ I enjoy solving backend problems related to performance, security, authenticatio
 ### Monitoring
 
 <p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-2C2D72?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://img.shields.io/badge/Loki-2C2D72?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
@@ -104,28 +103,32 @@ Microservices-based backend architecture featuring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib-Malik&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib-Malik&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib-Malik&theme=github-dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib-Malik&layout=compact&theme=github_dark&hide_border=true"/>
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib-Malik&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
+---
 
 # 🤝 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/zohaib-malik-bb7a3131b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:muhammadzohaibmalik10@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/zohaibaay">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
