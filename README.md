@@ -20,16 +20,16 @@ I enjoy solving backend problems related to performance, security, authenticatio
 
 ## 🚀 What I Do
 
-- 🔹 REST API Development
-- 🔹 Authentication & Authorization
-- 🔹 Microservices Architecture
-- 🔹 API Gateway
-- 🔹 Database Design
-- 🔹 Performance Optimization
-- 🔹 Redis Caching
-- 🔹 Docker & Cloud Deployment
-- 🔹 CI/CD Automation
-- 🔹 System Design
+🔹 REST API Development
+🔹 Authentication & Authorization
+🔹 Microservices Architecture
+🔹 API Gateway
+🔹 Database Design
+🔹 Performance Optimization
+🔹 Redis Caching
+🔹 Docker & Cloud Deployment
+🔹 CI/CD Automation
+🔹 System Design
 
 ---
 
